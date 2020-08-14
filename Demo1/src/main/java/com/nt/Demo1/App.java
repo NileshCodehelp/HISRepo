@@ -10,7 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
     }  
-    public void  c () {
-    	System.out.println("conflict+++++++++++++ooooo");
-    }
+    
 }
