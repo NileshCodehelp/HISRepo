@@ -10,7 +10,5 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
-    public void conflict() {
-    	System.out.println("Conflict check------abcdef");
-    }
+   
 }
